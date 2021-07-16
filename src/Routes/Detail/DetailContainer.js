@@ -18,8 +18,7 @@ export default class extends React.Component{
     async componentDidMount() {
         const {
             match: { params: { id }},
-            history: { push },
-            location : { pathname }
+            history: { push }
         } = this.props;
         const { isMovie } = this.state;
         const parsedId = parseInt(id);
