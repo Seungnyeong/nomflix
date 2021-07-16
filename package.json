@@ -33,7 +33,7 @@
       "react-app/jest"
     ]
   },
-  "homepage" : "https://Seungnyeong.github.io/nomfilx",
+  "homepage" : "https://Seungnyeong.github.io/nomflix",
   "browserslist": {
     "production": [
       ">0.2%",
